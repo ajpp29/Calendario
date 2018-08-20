@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalendarioTareas
 {
-    class cTarea
+    public class cTarea
     {
         /// <summary>
         /// Constructor de la clase

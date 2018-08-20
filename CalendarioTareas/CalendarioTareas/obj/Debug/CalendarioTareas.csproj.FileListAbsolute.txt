@@ -1,1 +1,5 @@
 C:\Users\angel\Documents\Repositorio\Calendario\CalendarioTareas\CalendarioTareas\bin\Debug\CalendarioTareas.exe.config
+C:\Users\angel\Documents\Repositorio\Calendario\CalendarioTareas\CalendarioTareas\obj\Debug\CalendarioTareas.csprojResolveAssemblyReference.cache
+C:\Users\angel\Documents\Repositorio\Calendario\CalendarioTareas\CalendarioTareas\obj\Debug\CalendarioTareas.Form1.resources
+C:\Users\angel\Documents\Repositorio\Calendario\CalendarioTareas\CalendarioTareas\obj\Debug\CalendarioTareas.Properties.Resources.resources
+C:\Users\angel\Documents\Repositorio\Calendario\CalendarioTareas\CalendarioTareas\obj\Debug\CalendarioTareas.csproj.GenerateResource.Cache
